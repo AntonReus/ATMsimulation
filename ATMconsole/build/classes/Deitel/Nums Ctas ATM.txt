@@ -1,0 +1,4 @@
+NÚMEROS DE CUENTA Y NIPS PARA CORRIDA DE PRUEBA DEL ATM
+cuentas[ 0 ] = new Cuenta( 12345, 54321, 1000.0, 1200.0 );
+cuentas[ 1 ] = new Cuenta( 98765, 56789, 200.0, 200.0 ); 
+
